@@ -19,6 +19,14 @@
 	],
 	"styleList": [
 		{
+			"labelKey": "draw.styleList.abstract",
+			"value": "abstract art"
+		},
+		{
+			"labelKey": "draw.styleList.contemporary",
+			"value": "contemporary art"
+		},
+		{
 			"labelKey": "draw.styleList.cyberpunk",
 			"value": "Cyberpunk"
 		},

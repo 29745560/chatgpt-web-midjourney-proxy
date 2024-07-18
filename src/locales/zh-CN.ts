@@ -99,7 +99,8 @@ export default {
     server:'服务端'
     ,about:'关于'
     ,model:'模型'
-    ,sysname:'AI绘图'
+    ,sysname:'白水 BAISHUI'
+    ,desc:'白水人工智能共创平台'
   }
 
   ,mjtab:{
@@ -307,6 +308,8 @@ export default {
 			ultraHd: "超高清",
 		},
 		styleList: {
+      abstract:"抽象艺术",
+      contemporary:"当代艺术",
 			cyberpunk: "赛博朋克",
 			star: "星际",
 			anime: "动漫",

@@ -138,25 +138,6 @@ watch(() => gptServerStore.myData.OPENAI_API_KEY , (n)=>{
 </section>
 
 
-<div class="text-right">{{$t('dance.viggleabout')}}</div>
-<section class="mb-4 flex justify-between items-center"  >
-    <n-input @blur="blurClean"  :placeholder="$t('mj.setOpenPlaceholder') " v-model:value="gptServerStore.myData.VIGGLE_SERVER" clearable>
-      <template #prefix>
-        <span class="text-[var(--n-tab-text-color-active)]">{{$t('dance.viggleserver')}}:</span>
-      </template>
-    </n-input>
-</section>
-
-<section class="mb-4 flex justify-between items-center"  >
-    <n-input  @blur="blurClean" type="password"  :placeholder="$t('dance.setOpenKeyPlaceholder')" show-password-on="click" v-model:value="gptServerStore.myData.VIGGLE_KEY" clearable>
-      <template #prefix>
-        <span class="text-[var(--n-tab-text-color-active)]">Viggle Key:</span>
-      </template>
-    </n-input>
-</section>
-
-
-
   <div  class="text-right" > {{$t('mj.setUploader')}}</div>
 <section class="mb-4 flex justify-between items-center"  >
     <n-input  :placeholder="$t('mj.setOpenPlaceholder')"  v-model:value="gptServerStore.myData.UPLOADER_URL" clearable>
