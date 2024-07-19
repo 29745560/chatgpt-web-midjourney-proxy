@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "ChatGPT-MJ",
+    "productName": "BAISHUI AI",
     "version": "2.19.5"
   },
   "tauri": {
@@ -54,7 +54,7 @@
     "bundle": {
       "active": true,
       "category": "DeveloperTool",
-      "copyright": "2024, Dooy All Rights Reserved.",
+      "copyright": "2024, BAISHUI All Rights Reserved.",
       "deb": {
         "depends": []
       },
@@ -66,8 +66,8 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.github.Dooy.chatgpt-web-midjourney-proxy",
-      "longDescription": "GPT&Midjourney( GPT-MJ) is a cross-platform ChatGPT and Midjourney client, including Web/Win/Linux/OSX/PWA.",
+      "identifier": "com.github.baishui.ai",
+      "longDescription": "BAISHUI AI co-create platform",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -76,7 +76,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "ChatGPT and Midjourney App",
+      "shortDescription": "BAISHUI AI",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
@@ -97,14 +97,13 @@
         "installMode": "passive"
       },
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDk4RjFEMDQ2ODE1ODVDMjQKUldRa1hGaUJSdER4bUdNQ2wyZjJIcE1IbDJWajRJVVZwQXA1c3BqL0gzaUZhc0pUeXg2ak5ZRjAK"
-   
     },
     "windows": [
       {
         "fullscreen": false,
         "height": 640,
         "resizable": true,
-        "title": "ChatGPT and Midjourney",
+        "title": "BAISHUI AI",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"
