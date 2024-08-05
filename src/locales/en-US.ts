@@ -201,7 +201,8 @@ export default {
     "server": "Server",
     "about": "About",
     "model": "Model",
-    "sysname": "AI Drawing"
+    "sysname": "BAISHUI",
+    "desc": "BAISHUI AI Labs"
   },
   "mjtab": {
     "chat": "Chat",
@@ -300,6 +301,8 @@ export default {
 			ultraHd: "Ultra HD",
 		},
 		styleList: {
+      abstract: "Abstract",
+      contemporary: "Contemporary",
 			cyberpunk: "Cyberpunk",
 			star: "Star",
 			anime: "Anime",
@@ -440,10 +443,10 @@ export default {
     "runwayserver": "Runway API Endpoint",
     "setOpenKeyPlaceholder2": "Runway API key, optional",
     "endImg": "End Frame Image",
-    "runwayinfo": "Explanation: <ul><li>1. Runway images and videos have expiration times.</li><li>2. Please save the MP4 file locally within 30 minutes after generating the video.</li></ul>",
+    "runwayinfo": "",
     "nosup": "Not supported temporarily",
-    "rwgen2": "Version: Gen-2, cost-effective",
-    "rwgen3": "Version: Gen-3 Alpha",
+    "rwgen2": "Version: Gen-2",
+    "rwgen3": "Version: Gen-3",
     "repeat2":"Expired.Reget"
 
   },

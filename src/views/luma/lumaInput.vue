@@ -121,8 +121,8 @@ watch(()=>isHK.value , (n)=>    saveMyDate( n && st.value.version=='pro' ) );
 watch(()=>st.value.version , ()=>  saveMyDate(isHK.value && st.value.version=='pro' ) );
 
 const mvOption= [
-{label: '版本: relax, 价格实惠',value: 'relax'}
-,{label:'版本: pro, 快且无水印',value: 'pro'}
+{label: '版本: relax',value: 'relax'}
+,{label:'版本: pro',value: 'pro'}
  ]
 
 </script>

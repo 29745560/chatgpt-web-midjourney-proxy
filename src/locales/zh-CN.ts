@@ -308,8 +308,8 @@ export default {
 			ultraHd: "超高清",
 		},
 		styleList: {
-      abstract:"抽象艺术",
-      contemporary:"当代艺术",
+      abstract: "抽象艺术",
+      contemporary: "当代艺术",
 			cyberpunk: "赛博朋克",
 			star: "星际",
 			anime: "动漫",
@@ -452,11 +452,10 @@ export default {
     runwayserver:'Runway 接口地址',
     setOpenKeyPlaceholder2:'Runway API 的key, 可不填',
     endImg:'尾帧图',
-    runwayinfo:'说明：<ul><li>1. Runway 图片与视频都有有效期</li>  <li>2. 请在生成视频后30分钟内将mp4保存到本地</li>  <li>3. 过期重新获取，可能存在账号下线而获取失败</li></ul>',
+    runwayinfo:'',
     nosup:'暂不支持',
-    rwgen2:'版本: Gen-2, 价格实惠',
-    rwgen3:'版本: Gen-3 Alpha',
-
+    rwgen2:'版本: Gen-2',
+    rwgen3:'版本: Gen-3',
     repeat2:'过期.重新获取',
 
   }
