@@ -449,7 +449,9 @@ export default {
     "rwgen2": "Version: Gen-2",
     "rwgen3": "Version: Gen-3 Alpha",
     "rwgen3fast": "Version: Gen-3 Alpha Fast",
-    "repeat2":"Expired.Reget"
+    "repeat2":"Expired.Reget",
+    rwgen3turbo:'Version: Gen-3 Alpha Turbo',
+    gen3a_turbo_img:'Gen-3 Alpha Turbo must image',
 
   },
   dance:{

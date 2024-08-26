@@ -460,6 +460,8 @@ export default {
     rwgen3:'版本: Gen-3 Alpha',
     rwgen3fast:'版本: Gen-3 Alpha Fast',
     repeat2:'过期.重新获取',
+    rwgen3turbo:'版本: Gen-3 Alpha Turbo',
+    gen3a_turbo_img:'Gen-3 Alpha Turbo 必须带图',
 
   }
   ,dance:{
