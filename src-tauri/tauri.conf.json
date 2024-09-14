@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "BAISHUI AI",
-    "version": "2.20.7"
+    "version": "2.20.10"
   },
   "tauri": {
     "allowlist": {
